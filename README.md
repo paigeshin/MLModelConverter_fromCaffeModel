@@ -1,5 +1,6 @@
 # MLModelConverter_fromCaffeModel
 
+## ❗️참고로 mlmodel이나 caffeemodel은 파일이 너무 커서 git에 안올라감
 
 # How to make `pre-trained model` to `ML model`
 
