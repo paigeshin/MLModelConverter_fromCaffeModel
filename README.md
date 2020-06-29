@@ -1,9 +1,13 @@
 # MLModelConverter_fromCaffeModel
 
+<<<<<<< HEAD
 # Dropbox Resource for mlModel
 
 [Link](https://www.dropbox.com/home/swift/mlmodels/flowerclassifier)
 
+=======
+## ❗️참고로 mlmodel이나 caffeemodel은 파일이 너무 커서 git에 안올라감
+>>>>>>> e686673b8dea78a482c06f6c1e02834681aeee08
 
 # How to make `pre-trained model` to `ML model`
 
@@ -15,8 +19,7 @@
 
 ### Conversion Workflow
 
-
-Model Source(.Caffe) → xCode → Your App 
+pre-trained model(.caffemodel) -> Model(.mlmodel) → xCode → Your App 
 
 ### What we are going to use
 
